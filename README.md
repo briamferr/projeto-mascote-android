@@ -9,6 +9,9 @@
 
 ![video-landing-page-android](https://github.com/briamferr/projeto-site-boz-oxisanitizacao/assets/124388657/05cde1f2-4d7d-4a57-875c-7805e51097e3)
 
+##
+<a href="https://briamferr.github.io/projeto-mascote-android/" target="_blank">Veja o site</a>
+
 ## Sobre a história do mascote
 A primeira tentativa de criar um mascote surgiu em 2007 e veio de um desenvolvedor chamado Dan Morrill. Ele conta que abriu o Inkscape (software livre para vetorização de imagens) e criou sua própria versão de robô. O objetivo era apenas personificar o sistema apenas para a a sua equipe, não existia nenhuma solicitação da empresa para a criação de um mascote.
 
